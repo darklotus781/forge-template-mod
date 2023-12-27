@@ -1,5 +1,5 @@
-# Templace Mod
-This is a Minecraft Mod for Forge 1.20.
+# Template Mod
+This is a Minecraft Mod for Forge 1.20.1
 
 ### Why?
 Stuff and things
